@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## Who am I?
+- My name is Kobe
+- My pronouns are he/him and they/them
+- I'm a first-year Game Development student at Howest, Digital Arts & Entertainment
+
 <!--
 **Kobazaaa/Kobazaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
