@@ -81,6 +81,8 @@ Currently developing a custom Engine, Renderer, and Editor as a hobby project.
 <br clear="both">
 
 <!-- Snake -->
+<div align="center">
 <img src="https://raw.githubusercontent.com/Kobazaaa/Kobazaaa/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
