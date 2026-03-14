@@ -1,30 +1,88 @@
-## About Me:
-- My name is Kobe
-- I use any pronouns
-- I'm a third-year Game Development student at Howest, Digital Arts & Entertainment, Belgium
+<br clear="both">
 
+<!-- Intro -->
+<div align="center">
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kobe-dereyne-925ba02a3/)<br>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@kobe1545) 
+# Kobazaaa
+### Graphics & Engine Programmer
 
-## Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+<img height="150" src="https://github.com/kobazaaa.png"  />
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kobazaaa&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+Building real-time rendering technology and tools. <br>
+Currently developing a custom Engine, Renderer, and Editor as a hobby project.
+
+  <a href="https://www.linkedin.com/in/kobe-dereyne-925ba02a3/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@kobe1545" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.com/users/411809304782569473" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://kobazaaa.itch.io" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
+  </a>
+  
+</div>
+
+<br clear="both">
+
+<!-- Stats -->
+<div align="center">
+
+###
+# Statistics
+
+![Kobazaaa's Stats](https://github-readme-stats.vercel.app/api?username=kobazaaa&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+</div>
+
+<br clear="both">
+
+<!-- Projects -->
+<div align="center">
+
+###
+# Ongoing Hobby Engine Project
+
+[![Pompeii | Renderer](https://github-readme-stats.vercel.app/api/pin/?username=kobazaaa&theme=tokyonight&repo=pompeii)](https://github.com/kobazaaa/pompeii)
+[![Kobengine | Engine](https://github-readme-stats.vercel.app/api/pin/?username=kobazaaa&theme=tokyonight&repo=kobengine)](https://github.com/kobazaaa/kobengine)
+[![Tadple | Editor](https://github-readme-stats.vercel.app/api/pin/?username=kobazaaa&theme=tokyonight&repo=tadpole)](https://github.com/kobazaaa/tadpole)
+  
+</div>
+
+<br clear="both">
+
+<!-- Tech -->
+<div align="center">
+
+###
+# Tech Stack
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="35" alt="cplusplus logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="35" alt="csharp logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto" height="35" alt="Vulkan logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge" height="35" alt="cmake logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white" height="35" alt="perforce logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="35" alt="git logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="github logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="35" alt="unity logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="35" alt="unrealengine logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<!-- Snake -->
+<img src="https://raw.githubusercontent.com/Kobazaaa/Kobazaaa/output/snake.svg" alt="Snake animation" />
+
+###
