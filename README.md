@@ -1,5 +1,3 @@
-<br clear="both">
-
 <!-- Intro -->
 <div align="center">
 
