@@ -32,7 +32,7 @@ Currently developing a custom Engine, Renderer, and Editor as a hobby project.
 ###
 # Statistics
 
-![Kobazaaa's Stats](https://github-readme-stats.vercel.app/api?username=kobazaaa&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Kobazaaa's Stats](https://github-stats-extended.vercel.app/api?username=Kobazaaa&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 </div>
 
@@ -44,9 +44,9 @@ Currently developing a custom Engine, Renderer, and Editor as a hobby project.
 ###
 # Ongoing Hobby Engine Project
 
-[![Pompeii | Renderer](https://github-readme-stats.vercel.app/api/pin/?username=kobazaaa&theme=tokyonight&repo=pompeii)](https://github.com/kobazaaa/pompeii)
-[![Kobengine | Engine](https://github-readme-stats.vercel.app/api/pin/?username=kobazaaa&theme=tokyonight&repo=kobengine)](https://github.com/kobazaaa/kobengine)
-[![Tadple | Editor](https://github-readme-stats.vercel.app/api/pin/?username=kobazaaa&theme=tokyonight&repo=tadpole)](https://github.com/kobazaaa/tadpole)
+[![Pompeii | Renderer](https://github-stats-extended.vercel.app/api/pin/?username=kobazaaa&theme=tokyonight&repo=pompeii)](https://github.com/kobazaaa/pompeii)
+[![Kobengine | Engine](https://github-stats-extended.vercel.app/api/pin/?username=kobazaaa&theme=tokyonight&repo=kobengine)](https://github.com/kobazaaa/kobengine)
+[![Tadple | Editor](https://github-stats-extended.vercel.app/api/pin/?username=kobazaaa&theme=tokyonight&repo=tadpole)](https://github.com/kobazaaa/tadpole)
   
 </div>
 
